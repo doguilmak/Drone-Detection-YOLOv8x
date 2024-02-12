@@ -1,0 +1,10 @@
+
+train: ../drone_dataset/train
+val: ../drone_dataset/valid
+
+# number of classes
+nc: 1
+
+# class names
+names: ['drone']
+    
