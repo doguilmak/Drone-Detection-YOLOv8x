@@ -32,6 +32,3 @@ We appreciate your responsible disclosure of security vulnerabilities. Please re
 This project follows a coordinated disclosure model. We believe in working with the security community to protect our users and ensure the confidentiality of sensitive information.
 
 Thank you for helping us keep our project secure!
-
----
-**Note:** This is a template, and you may need to customize it based on your specific reporting process and timeline.
