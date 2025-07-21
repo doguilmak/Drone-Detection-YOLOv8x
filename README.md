@@ -23,7 +23,7 @@ To facilitate the development and evaluation of drone detection models, we intro
 ## Methodology
 In this study, we employ the YOLOv8 architecture, a popular and highly efficient object detection framework, for drone detection. YOLOv8, which stands for 'You Only Look Once' version 8, utilizes a single neural network to simultaneously predict bounding boxes and class probabilities for multiple objects in an image. This architecture offers real-time performance, making it ideal for drone detection applications.
 
-To enhance the model's performance and leverage pre-trained weights, we utilize the [HuggingFace repository](https://huggingface.co/doguilmak/Drone-Detection-YOLOv8x/tree/main/weight) 🤗 for accessing the pre-trained weights file. These weights have been pre-trained on a large dataset and fine-tuned for optimal accuracy, allowing for faster convergence and improved detection capabilities when used for drone detection tasks.
+To enhance the model's performance and leverage pre-trained weights, you can utilize YOLOv8x trained best weight in  [HuggingFace repository](https://huggingface.co/doguilmak/Drone-Detection-YOLOv8x/tree/main/weight) 🤗. These weights have been trained on a YOLO Drone Detection Dataset dataset.
 
 ## Experimental Setup
 To train and evaluate our drone detection model, we utilize the Colab platform, a cloud-based environment that provides access to powerful computing resources and deep learning libraries. Leveraging Colab's GPU acceleration capabilities, we train the YOLOv8 model using our curated dataset and fine-tune its parameters to optimize detection accuracy and efficiency.
