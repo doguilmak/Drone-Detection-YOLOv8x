@@ -72,9 +72,13 @@ Our research addresses the critical need for reliable drone detection systems by
 
 <br>
 
-### Drone Detection with YOLOv7
+### Drone Detection with YOLOv8x
 
-In addition to this work, I have also developed a drone detection model using YOLOv7. You can find that project or repository [here](https://github.com/doguilmak/Drone-Detection-YOLOv7).
+In addition to this work, I have also developed drone detection models using YOLOv11x and YOLOv7.
+
+- You can find the YOLOv11x project or repository [here](https://github.com/doguilmak/Drone-Detection-YOLOv11x).
+
+- You can find the YOLOv7 project or repository [here](https://github.com/doguilmak/Drone-Detection-YOLOv7).
 
 <br>
 
@@ -84,3 +88,4 @@ If you have something to say to me please contact me:
 
 *	X: [Doguilmak](https://x.com/Doguilmak)
 *	Mail address: doguilmak@gmail.com
+
